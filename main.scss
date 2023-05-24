@@ -1,0 +1,13 @@
+// From Latout.
+@use "./sass/layout/global-rules";
+
+
+// From Pages
+@use "./sass/pages/header";
+@use "./sass/pages/home";
+@use "./sass/pages/about";
+@use "./sass/pages/services";
+@use "./sass/pages/portfolio";
+@use "./sass/pages/contact";
+@use "./sass/pages/footer";
+@use "./sass/pages/responsive"
